@@ -24,7 +24,7 @@ A repo of Flutter UI examples
 
 ## Screenshots
 
-<img src="https://i.imgur.com/8rUXGgL.gif" width="32%">
+<img src="https://i.imgur.com/8rUXGgL.gif" width="48%">
 
 ## Contribute
 
