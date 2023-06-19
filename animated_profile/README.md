@@ -1,16 +1,47 @@
-# flutter_animated_profile_ui
+<!-- ![Repo Banner](https://i.imgur.com/cHkkmpg.png) -->
 
-A new Flutter project.
+<div align="center">
 
-## Getting Started
+<h1 style="border-bottom: none">
+    <b><a href="#">Flutter-UI-Kit</a></b>
+</h1>
 
-This project is a starting point for a Flutter application.
+A repo of Flutter UI examples
 
-A few resources to get you started if this is your first Flutter project:
+[![Made-with-flutter](https://img.shields.io/badge/Made%20with-Flutter-orange)](https://flutter.dev/) 
+![GitHub repo size](https://img.shields.io/github/repo-size/ivansaul/Flutter-UI-Kit)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Discord](https://img.shields.io/badge/-Discord-424549?style=social&logo=discord)](https://discord.gg/b72uAVBz6b)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Don't forget to ⭐ the repo
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![GitHub stars](https://img.shields.io/github/stars/ivansaul/Flutter-UI-Kit?style=social)
+![GitHub forks](https://img.shields.io/github/forks/ivansaul/Flutter-UI-Kit?style=social) 
+
+</div>
+
+---
+
+## Screenshots
+
+<img src="https://i.imgur.com/8rUXGgL.gif" width="32%">
+
+## Contribute
+
+Contributions are welcome.
+
+## Facing any Issue?
+
+Feel free to open an [Issue][issue] :)
+
+## Contact
+If you want to contact me you can reach me at [Discord][discord].
+
+## License
+
+MIT
+
+
+[discord]: https://discord.com/users/744755977684779038
+[discord-server]: https://discord.gg/b72uAVBz6b
+[issue]: https://github.com/ivansaul/Flutter-UI-Kit/issues
