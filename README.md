@@ -24,7 +24,12 @@ A repo of Flutter UI examples
 
 ## Screenshots
 
+`> animated_profile/`
+
 <img src="https://i.imgur.com/8rUXGgL.gif" width="48%">
+
+`> custom_painter/`
+
 <img src="https://i.imgur.com/1No8LMG.png" width="48%">
 
 ## Contribute
