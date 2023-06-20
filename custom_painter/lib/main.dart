@@ -50,7 +50,7 @@ class MyAppPreview extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Material App',
-      home: const HomeScreen(),
+      home: const IntroScreen(),
       debugShowCheckedModeBanner: false,
       theme: ThemeData(useMaterial3: true),
       builder: DevicePreview.appBuilder,

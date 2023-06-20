@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_template/ui/screens/intro_screen.dart';
 
 import '../widgets/widgets.dart';
 
@@ -21,7 +22,14 @@ class HomeScreen extends StatelessWidget {
                 Row(
                   children: [
                     IconButton(
-                      onPressed: () {},
+                      onPressed: () {
+                        Navigator.push(
+                          context,
+                          MaterialPageRoute(
+                            builder: (context) => const IntroScreen(),
+                          ),
+                        );
+                      },
                       icon: const Icon(
                         Icons.arrow_back,
                         color: Colors.white,
