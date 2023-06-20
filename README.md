@@ -26,13 +26,17 @@ A repo of Flutter UI examples
 
 `> animated_profile/`
 
+<div align="center">
 <img src="https://i.imgur.com/8rUXGgL.gif" width="48%">
+</div>
 
 `> custom_painter/`
 
+<div align="center">
 <img src="https://i.imgur.com/exDGwY7.png" width="48%">
 
 <img src="https://i.imgur.com/1No8LMG.png" width="48%">
+</div>
 
 ## Contribute
 
