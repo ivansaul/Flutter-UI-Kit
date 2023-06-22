@@ -1,4 +1,4 @@
-<!-- ![Repo Banner](https://i.imgur.com/cHkkmpg.png) -->
+<!-- ![Repo Banner](https://i.imgur.com/znZb79F.png) -->
 
 <div align="center">
 
@@ -30,20 +30,6 @@ A repo of Flutter UI examples
 <img src="https://i.imgur.com/97omICm.gif" width="50%">
 </div>
 
-`> animated_profile/`
-
-<div align="center">
-<img src="https://i.imgur.com/8rUXGgL.gif" width="50%">
-</div>
-
-`> custom_painter/`
-
-<div align="center">
-<img src="https://i.imgur.com/exDGwY7.png" width="50%">
-
-<img src="https://i.imgur.com/1No8LMG.png" width="50%">
-</div>
-
 ## Contribute
 
 Contributions are welcome.
@@ -55,6 +41,10 @@ Feel free to open an [Issue][issue] :)
 ## Contact
 If you want to contact me you can reach me at [Discord][discord].
 
+## UI Credits
+
+- [Figma][ui-figma]
+
 ## License
 
 MIT
@@ -63,3 +53,4 @@ MIT
 [discord]: https://discord.com/users/744755977684779038
 [discord-server]: https://discord.gg/b72uAVBz6b
 [issue]: https://github.com/ivansaul/Flutter-UI-Kit/issues
+[ui-figma]: https://www.figma.com/community/file/1159117835330340821 
