@@ -27,7 +27,7 @@ A repo of Flutter UI examples
 `> onboarding_screen/`
 
 <div align="center">
-<img src="https://i.imgur.com/97omICm.gif" width="50%">
+<img src="https://github.com/ivansaul/Flutter-UI-Kit/assets/15005581/fe265ff3-ace9-4eb0-a8c2-cf120707d2c6" width="50%">
 </div>
 
 `> animated_profile/`
