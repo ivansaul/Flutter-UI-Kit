@@ -24,30 +24,8 @@ A repo of Flutter UI examples
 
 ## Screenshots
 
-`> onboarding_screen/`
-
-<div align="center">
-<img src="https://github.com/ivansaul/Flutter-UI-Kit/assets/15005581/fe265ff3-ace9-4eb0-a8c2-cf120707d2c6" width="50%">
-</div>
-
-`> awesome_forms/`
-
 <div align="center">
 <img src="https://i.imgur.com/wQ69v4B.gif" width="50%">
-</div>
-
-`> animated_profile/`
-
-<div align="center">
-<img src="https://i.imgur.com/8rUXGgL.gif" width="50%">
-</div>
-
-`> custom_painter/`
-
-<div align="center">
-<img src="https://i.imgur.com/exDGwY7.png" width="50%">
-
-<img src="https://i.imgur.com/1No8LMG.png" width="50%">
 </div>
 
 ## Contribute
